@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/18712925/163315106-8820a669-93b2-42df-a88e-e088da21deec.png)
 <!--
 **smilejj91/smilejj91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
