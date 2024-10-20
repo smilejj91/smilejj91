@@ -1,4 +1,4 @@
-### I wanna be a good infra developer 😁
+### I wanna be a good infra engineer 😁
 <!--
 **smilejj91/smilejj91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
